@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my latest Project of STUDENT ATTENDANCE (BackEnd)
 - 📫 How to reach me Onlyfor12thstudy@gmail.com, Instagram : Khushantwankhede_
 - 😄 Pronouns: Kush-unt
-- ⚡ Fun fact: I’ve memorized every line from my favorite movie and can recite it at any time.
+- ⚡ Fun fact  I love organizing events and have a strong passion for leadership, always striving to bring teams together to achieve shared goals.
 
 <!---
 TheKhushant/TheKhushant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
