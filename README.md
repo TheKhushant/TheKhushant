@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA Developer
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on my latest Project of STUDENT ATTENDANCE (BackEnd)
-- 📫 How to reach me Onlyfor12thstudy@gmail.com, Instagram : Khushantwankhede_
+- 📫 How to reach me Onlyfor12thstudy@gmail.com
 - 😄 Pronouns: Kush-unt
 - ⚡ Fun fact  I love organizing events and have a strong passion for leadership, always striving to bring teams together to achieve shared goals.
 
