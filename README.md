@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on my latest Project of STUDENT ATTENDANCE (BackEnd)
 - 📫 How to reach me Onlyfor12thstudy@gmail.com
-- 😄 Pronouns: Kush-unt
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact  I love organizing events and have a strong passion for leadership, always striving to bring teams together to achieve shared goals.
 
 <!---
