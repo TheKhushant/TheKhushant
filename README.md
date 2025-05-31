@@ -40,8 +40,8 @@
 
 ## 📈 Coding Journey
 
-🔹 **300+ DSA Problems Solved**  
-🔹 **123+ Active Coding Days**  
+🔹 **500+ DSA Problems Solved**  
+🔹 **171+ Active Coding Days**  
 🔹 **Regular Participant** in:
 - [Smart India Hackathon](https://www.sih.gov.in/)
 - Smackathon 2K24
@@ -60,7 +60,7 @@ Built using React.js, Tailwind CSS, and Bootstrap to showcase skills, achievemen
 ### 🍽 [Swiggy Clone Web App](https://swiggy-c-lone-practice-psi.vercel.app/)
 A food delivery platform simulating real-world ordering with React and Node.js APIs.
 
-### 🛡 [Women Safety Application](https://womensafety-sand.vercel.app/)
+### 🛡 [Swiggy Clone](https://swiggy-c-lone-practice-psi.vercel.app/)
 Features Vibe & Emergency Modes, sends alerts to contacts, and records video/audio for safety.
 
 ---
