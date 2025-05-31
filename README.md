@@ -60,8 +60,8 @@ Built using React.js, Tailwind CSS, and Bootstrap to showcase skills, achievemen
 ### 🍽 [Swiggy Clone Web App](https://swiggy-c-lone-practice-psi.vercel.app/)
 A food delivery platform simulating real-world ordering with React and Node.js APIs.
 
-### 🛡 [Swiggy Clone](https://swiggy-c-lone-practice-psi.vercel.app/)
-Features Vibe & Emergency Modes, sends alerts to contacts, and records video/audio for safety.
+### 🛡 [Image Filter](https://image-filter-4pce.onrender.com/)
+An interactive website where users can upload images and apply filters like grayscale, blur, brightness adjustment, etc. Built for learning purposes and real-time manipulation.
 
 ---
 
